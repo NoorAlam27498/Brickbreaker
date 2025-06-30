@@ -23,5 +23,4 @@ Computer Organization and Assembly Language
 - Proper Assembly setup in Visual Studio
 
 ## 📌 Notes
-- Only works on 32-bit Windows systems (or compatible environments).
 - Designed as a learning project to demonstrate interaction with hardware and memory at a low level.
